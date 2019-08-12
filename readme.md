@@ -1,6 +1,6 @@
-##Link modifier
+#Link modifier
 
-#WordPress basic installation containing three pages with hreflang attributes; 
+> ## WordPress basic installation containing three pages with hreflang attributes; 
 
 ----------
 
@@ -45,40 +45,3 @@ Credentials:
 		- Publish and view the new page.
 		- Check the source code of the page. There is a hredlang attribute inside the ling tag.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-user: Marchinka90
-pass: 8d9R15X&rTq5Q!VHQ5
